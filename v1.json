@@ -1,0 +1,12 @@
+{
+  "urls": ["https://www.oflara.com/"],
+  "inject": "",
+  "files": [
+    "./shared.css",
+    "./shared.js",
+    "./v1.css",
+    "./v1.js",
+    "./bootstrap/js/bootstrap.bundle.js",
+    "./bootstrap/css/bootstrap.css"
+  ]
+}
